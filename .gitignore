@@ -11,7 +11,7 @@ node_modules
 dist
 dist-ssr
 *.local
-
+.env
 env
 .env.*
 .env.local
@@ -31,3 +31,6 @@ env
 *.sw?
 
 .vercel
+.agents
+skills*
+skills-lock.json
